@@ -98,8 +98,3 @@ Please fork it!
 ## Authors
 
 - Renato Visaggio - _Initial_ _Work_ - [N4S4](https://github.com/N4S4)
-
-
-
-
-# thingspeak-wrapper
