@@ -8,7 +8,7 @@ setup(
     description='A thingspeak.com wrapper',
     long_description=open('README.md').read(),
     install_requires=['pandas'],
-    url='https://github.com/N4S4/thingspeak-wrapper',
+    url='https://github.com/N4S4/thingspeak_wrapper',
     author='Renato Visaggio',
     author_email='renatovisaggio@gmail.com'
 )
